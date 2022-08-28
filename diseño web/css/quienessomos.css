@@ -1,0 +1,23 @@
+.texto-justificado{
+    text-align: justify;
+    margin-right: 15%;
+    line-height : 25px;
+    margin-left: 15%;
+    font-style:oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.titulo{
+    text-align: center;
+    font-family:"Rubik Mono One";
+
+}
+
+.img:hover {
+    filter: blur(2px);
+}
+.tcn{
+  background-color:#DAE9F4 ;
+  border-radius: 13px;
+  margin-top: 5%;
+}
+

@@ -1,0 +1,18 @@
+.lis{
+    font-size: 19px;
+    font-family:'Rubik Mono One';
+    line-height: 1.6;
+    background: rgba(0,0,0,0.1);
+    border-radius: 10px;
+    padding: 4px 8px;
+    transition: all 1s;
+}
+.lis :hover{
+    transform: translateY(3px);
+    border-radius: 13px;
+}
+
+.aim{
+    font-size: 12px;
+    font-family: 'Rubik Mono One';
+}
